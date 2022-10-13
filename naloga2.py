@@ -1,0 +1,6 @@
+primes = [2,3,4,5,7,11]
+for prime in primes:
+    print(f'{prime} is in a prime number.')
+
+for i in range (0,100,10):
+    print(str(i)) 
